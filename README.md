@@ -83,3 +83,6 @@ Contributions and suggestions are welcome! Feel free to open issues or pull requ
 ## License
 
 This project is open source. See the `LICENSE` file for details.![1000457007](https://github.com/user-attachments/assets/3bb5d883-f521-4e4d-bba3-ea3b061dbdc0)
+
+Demo video 
+https://youtube.com/shorts/B2OO5P_da3Q?feature=share
